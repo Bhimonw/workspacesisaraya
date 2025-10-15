@@ -1,0 +1,47 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+/.env
+/.env.*
+Homestead.yaml
+Homestead.json
+/.phpunit.result.cache
+/storage/debugbar
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Composer
+composer.lock
+
+# npm
+package-lock.json
+
+# Build
+/public/mix-manifest.json
+/public/hot
+
+# Logs
+/storage/logs/*.log
+
+# Ignore sensitive keys and local files
+.env
+.env.local
+.env.*
+
+# SQLite
+*.sqlite
+
+# PHPUnit
+.phpunit.result.cache
+
+# JetBrains
+.idea/
+
+# VSCode
+.vscode/
